@@ -10,6 +10,6 @@ namespace GitProject
     {
         public int Property1 { get; set; }
         public int Property22 { get; set; }
-        public int Property33 { get; set; }
+        public int Property33 { get; set; }  //добавили коммент
     }
 }
