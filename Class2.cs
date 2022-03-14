@@ -11,5 +11,6 @@ namespace GitProject
         public string strProperties1 { get; set; }
         public string strProperties2 { get; set; }  // забыли добавить комментарий
         public string strProperties3 { get; set; }
+        public string strProperties4 { get; set; }
     }
 }
