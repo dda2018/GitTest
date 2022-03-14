@@ -11,6 +11,7 @@ namespace GitProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from Git");
+            Console.WriteLine("Hello for branches");
         }
     }
 }
